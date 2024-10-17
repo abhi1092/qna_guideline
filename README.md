@@ -1,1 +1,1 @@
-Temporary Repository for collabrating on qna guidelines
+Temporary Repository for collaborating on QNA guidelines
